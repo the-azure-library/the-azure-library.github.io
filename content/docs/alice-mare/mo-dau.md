@@ -1,6 +1,6 @@
 ---
 title: "Mở đầu"
-weight: 0
+weight: 1   # Hugo coi weight: 0 là "chưa đặt" nên phải dùng 1; chương dùng bước 10 (10, 20, 30...) để dễ chèn thêm sau này
 ---
 
 {{< dau-chuong >}}

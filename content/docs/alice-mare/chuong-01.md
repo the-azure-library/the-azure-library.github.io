@@ -1,6 +1,6 @@
 ---
-title: "Chương I · (Chờ cập nhật bản dịch)"
-weight: 1
+title: "Chương I · Chúc ngủ ngon"
+weight: 10
 ---
 
 {{< dau-chuong >}}

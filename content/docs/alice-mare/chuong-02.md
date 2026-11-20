@@ -1,6 +1,6 @@
 ---
-title: "Chương II · (Chờ cập nhật bản dịch)"
-weight: 2
+title: "Chương II · Hai chúng ta"
+weight: 20
 ---
 
 {{< dau-chuong >}}
