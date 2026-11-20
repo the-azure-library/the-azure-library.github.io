@@ -1,0 +1,28 @@
+<button type="button" class="tq-theme-toggle" id="tq-theme-toggle" aria-label="Đổi chế độ ngày / đêm">
+  <span aria-hidden="true">◐</span>
+  <span id="tq-theme-label">Chế độ đêm</span>
+</button>
+<script>
+  (function () {
+    var root = document.documentElement;
+    var btn = document.getElementById("tq-theme-toggle");
+    var label = document.getElementById("tq-theme-label");
+
+    function isDark() {
+      var t = root.getAttribute("data-theme");
+      if (t === "thuquan-dark") return true;
+      if (t === "thuquan-light") return false;
+      return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    }
+    function render() {
+      label.textContent = isDark() ? "Chế độ ngày" : "Chế độ đêm";
+    }
+    btn.addEventListener("click", function () {
+      var next = isDark() ? "light" : "dark";
+      root.setAttribute("data-theme", "thuquan-" + next);
+      try { localStorage.setItem("tq-theme", next); } catch (e) {}
+      render();
+    });
+    render();
+  })();
+</script>

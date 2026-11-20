@@ -1,0 +1,18 @@
+{{- /*
+  Đầu chương. Dùng ở dòng đầu file chương:  {{< dau-chuong >}}
+  Lấy tên từ front matter title dạng "Chương I · Tên chương".
+  Có thể ghi đè: {{< dau-chuong so="Chương I" ten="Tên chương" >}}
+*/ -}}
+{{- $parts := split .Page.Title " · " -}}
+{{- $so := .Get "so" | default (cond (gt (len $parts) 1) (index $parts 0) "") -}}
+{{- $ten := .Get "ten" | default (cond (gt (len $parts) 1) (index $parts 1) .Page.Title) -}}
+<header class="tq-chapter-head">
+  {{- with $so }}<span class="tq-chapter-num">{{ . }}</span>{{ end }}
+  <h1 class="tq-chapter-title">{{ $ten }}</h1>
+  <svg class="tq-ornament" viewBox="0 0 220 22" fill="none" stroke="currentColor" stroke-width="1.2" aria-hidden="true">
+    <path d="M0 11 H86"></path><path d="M134 11 H220"></path>
+    <path d="M110 2 L119 11 L110 20 L101 11 Z"></path>
+    <circle cx="92" cy="11" r="2.2" fill="currentColor"></circle>
+    <circle cx="128" cy="11" r="2.2" fill="currentColor"></circle>
+  </svg>
+</header>
