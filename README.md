@@ -67,8 +67,8 @@ thì dùng `{{< dau-chuong so="Chương I" ten="Tên chương" >}}`.
 | `ngat-canh` | Ngắt cảnh giữa hai đoạn (hiện `◆ ◆ ◆`) | `{{< ngat-canh >}}` |
 | `ghi-chu` | Chú thích/giải nghĩa của người dịch | `{{< ghi-chu >}}Nội dung chú thích.{{< /ghi-chu >}}` |
 
-Xem truyện mẫu **Vệt Sáng Cuối Chân Trời**
-(`content/docs/vet-sang-cuoi-chan-troi/`) để có ví dụ đầy đủ.
+Xem truyện đầu tiên **Alice Mare**
+(`content/docs/alice-mare/`) để có ví dụ đầy đủ.
 
 ## Thêm trang / bài blog
 
