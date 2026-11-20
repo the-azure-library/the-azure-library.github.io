@@ -1,0 +1,41 @@
+baseURL = "https://the-azure-library.github.io/"
+languageCode = "vi"
+title = "Thư Viện Thanh Không"
+theme = "hugo-book"
+
+enableGitInfo = true
+enableRobotsTXT = true
+
+# Dùng ToC tuỳ chương, có thể bật lại trong front matter từng trang nếu cần
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+  [markup.highlight]
+    noClasses = false
+    style = "base16-snazzy"
+
+[params]
+  BookTheme = "thuquan-auto"
+  BookToC = false
+  BookSection = "docs"
+  BookSearch = true
+  BookComments = false
+  BookRepo = "https://github.com/the-azure-library/the-azure-library.github.io"
+  BookEditPath = "edit/main/content"
+
+# Các mục ngoài cây "docs", hiển thị ở cuối menu bên trái
+[menu]
+  [[menu.after]]
+    name = "Giới thiệu"
+    pageRef = "/gioi-thieu"
+    weight = 10
+  [[menu.after]]
+    name = "Blog"
+    pageRef = "/blog"
+    weight = 20
+
+[outputs]
+  home = ["html", "rss"]
+  section = ["html", "rss"]

@@ -1,0 +1,53 @@
+{{- /*
+  Override của theme hugo-book: chỉ cho phép prev/next điều hướng trong
+  cùng một truyện (cùng section cha trực tiếp dưới BookSection), tránh
+  nhảy sang truyện khác khi hết chương cuối/đầu.
+  Markup/class giữ gần như nguyên bản để CSS hiện tại vẫn áp dụng đúng.
+*/ -}}
+{{- with (partialCached "docs/menu-section" .Site) -}}
+  {{- $allPages := partialCached "docs/menu-section-pages" . -}}
+
+  {{- /* Gốc truyện của trang hiện tại: chính nó nếu là _index (section),
+         hoặc section cha trực tiếp nếu là một chương */ -}}
+  {{- $currentRoot := $ -}}
+  {{- if not $.IsSection -}}
+    {{- $currentRoot = $.Parent -}}
+  {{- end -}}
+
+  {{- /* Lọc lại danh sách trang: chỉ giữ các trang có cùng gốc truyện */ -}}
+  {{- $scratch := newScratch -}}
+  {{- range $allPages -}}
+    {{- $root := . -}}
+    {{- if not .IsSection -}}
+      {{- $root = .Parent -}}
+    {{- end -}}
+    {{- if and $root $currentRoot (eq $root.RelPermalink $currentRoot.RelPermalink) -}}
+      {{- $scratch.Add "Pages" (slice .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $pages := $scratch.Get "Pages" -}}
+
+  {{- $prev := $pages.Next $ -}}
+  {{- $next := $pages.Prev $ -}}
+
+  {{- if or $prev $next -}}
+  <div class="flex flex-wrap justify-between">
+    <span>
+    {{ with $prev }}
+      <a href="{{ .RelPermalink }}" class="flex align-center">
+        <svg class="book-icon" aria-hidden="true">{{ partial "docs/icon" "backward" }}</svg>
+        <span>{{ partial "docs/title" . }}</span>
+      </a>
+    {{ end }}
+    </span>
+    <span>
+    {{ with $next }}
+      <a href="{{ .RelPermalink }}" class="flex align-center">
+        <span>{{ partial "docs/title" . }}</span>
+        <svg class="book-icon" aria-hidden="true">{{ partial "docs/icon" "forward" }}</svg>
+      </a>
+    {{ end }}
+    </span>
+  </div>
+  {{- end -}}
+{{- end -}}
