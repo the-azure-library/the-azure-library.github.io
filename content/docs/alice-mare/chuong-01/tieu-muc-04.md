@@ -3,6 +3,8 @@ title: "Phần 4"
 weight: 40
 ---
 
+{{< dau-phan >}}
+
 <!-- Tiểu mục 4 — góc nhìn Allen: trong phòng gặp con mèo biết nói, bị dẫn
      vào tủ đồ như một cánh cửa sang "thế giới mộng", gặp mèo Cheshire và
      Thỏ Trắng, biết về 5 "Thế Giới" và các chìa khoá bị đánh cắp, mở cửa

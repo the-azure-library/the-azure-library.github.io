@@ -3,6 +3,8 @@ title: "Phần 5"
 weight: 50
 ---
 
+{{< dau-phan >}}
+
 "...Ngươi cũng đến đó sao?"
 
 Đặt tay trên tay nắm cửa, tôi đáp lại cái bóng sau lưng mà không buồn quay lại nhìn nó.

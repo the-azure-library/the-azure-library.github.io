@@ -3,6 +3,8 @@ title: "Phần 3"
 weight: 30
 ---
 
+{{< dau-phan >}}
+
 <!-- Tiểu mục 3 — góc nhìn Thầy giáo: nghe tiếng vỡ trên gác, phát hiện
      Allen làm vỡ mô hình con bướm trong phòng chứa đồ; sau đó một cuộc
      trao đổi bí ẩn với "giọng nói" (ẩn ý tới nhân vật mèo). -->

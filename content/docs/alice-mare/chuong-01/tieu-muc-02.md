@@ -3,6 +3,8 @@ title: "Phần 2"
 weight: 20
 ---
 
+{{< dau-phan >}}
+
 Có tiếng nước chảy. Trong tình huống như này, mình không thể chịu được sự tĩnh lặng bao trùm.
 
 ...Mặt của bố mẹ mình trông như nào vậy? Họ bao nhiêu tuổi rồi? Họ có dễ nổi giận không? Gia đình mình từng sống trong căn nhà như nào? ...Lúc đó mình đang làm gì nhỉ?

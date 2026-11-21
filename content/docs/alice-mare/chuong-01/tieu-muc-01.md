@@ -1,7 +1,9 @@
 ---
-title: "Chương I · Chúc ngủ ngon"
+title: "Phần 1"
 weight: 10
 ---
+
+{{< dau-phan >}}
 
 Hành lang trắng cứ kéo dài mãi, từng bước chân của tôi cũng vang vọng theo.
 

@@ -1,0 +1,12 @@
+{{- /*
+  Tiêu đề nhỏ đầu mỗi trang tiểu mục (khác với dau-chuong - tiêu đề to đầu chương).
+  Tự lấy "Chương ..." từ title trang mục lục chương (cha), và "Phần ..." từ title trang hiện tại.
+  Dùng ở đầu file tieu-muc-XX.md:  {{< dau-phan >}}
+  Có thể ghi đè: {{< dau-phan chuong="Chương I" phan="Phần 2" >}}
+*/ -}}
+{{- $parentTitle := "" -}}
+{{- with .Page.Parent }}{{ $parentTitle = .Title }}{{ end -}}
+{{- $parts := split $parentTitle " · " -}}
+{{- $chuong := .Get "chuong" | default (index $parts 0) -}}
+{{- $phan := .Get "phan" | default .Page.Title -}}
+<p class="tq-part-head">{{ $chuong }} · {{ $phan }}</p>

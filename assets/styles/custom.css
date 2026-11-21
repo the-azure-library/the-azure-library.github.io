@@ -219,6 +219,17 @@ h1, h2, h3, h4,
   color: var(--tq-accent);
 }
 
+/* Đầu tiểu mục (shortcode dau-phan) */
+.tq-part-head {
+  margin: 0 0 1.75rem;
+  text-align: center;
+  color: var(--tq-accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
 /* Ngắt cảnh (shortcode ngat-canh) */
 .tq-divider {
   margin: 1.6em 0;
