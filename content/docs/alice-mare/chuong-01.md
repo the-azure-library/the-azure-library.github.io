@@ -5,7 +5,7 @@ weight: 10
 
 {{< dau-chuong >}}
 
-Hành lang trắng cứ kéo dài mãi, còn từng bước chân của tôi cũng vang vọng mãi.
+Hành lang trắng cứ kéo dài mãi, từng bước chân của tôi cũng vang vọng theo.
 
 Tình hình cứ như này làm tôi mơ hồ cảm thấy bồn chồn và bất lực. Vừa nãy tôi còn ở một nơi có người trông như làm công nhân, nhưng chỗ hiện tại chẳng có chút bóng dáng nào của sinh vật sống. Sự tĩnh mịch nơi này chỉ làm tôi thêm bất an.
 
