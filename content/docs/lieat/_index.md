@@ -6,9 +6,13 @@ bookCollapseSection: true
 
 # LiEat
 
-**Tác giả:** _(điền sau)_
+**Game gốc:** [LiEat](https://store.steampowered.com/app/373770/LiEat/) - game phiêu lưu làm trên WOLF RPG Editor
 
-**Link nguồn:** _(điền sau)_
+**Tác giả:** Miwashiba (△○□×)
+
+**Link nguồn:** [store.steampowered.com/app/373770/LiEat](https://store.steampowered.com/app/373770/LiEat/)
+
+**Bản dịch tiếng Anh tham khảo:** [vgperson](https://vgperson.com/novels.php?n=lieat)
 
 **Bản dịch tiếng Việt:** The Azure Library (Thư Viện Thanh Không)
 
