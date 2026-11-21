@@ -17,7 +17,7 @@ Một mặt mình cảm thấy nhẹ lòng khi mình vẫn còn sống, một m�
 
 "Allen Llewellyn..."
 
-Mình lẩm bẩm tên của mình, thứ duy nhất rõ ràng trong trí nhớ của mình.
+Mình lẩm bẩm cái tên — thứ duy nhất còn rõ ràng trong trí nhớ.
 
 Mình tỉnh dậy trên một chiếc giường trong bệnh viện. Dù có cố gắng thế nào thì mình cũng không thể nhớ chuyện xảy ra trước đó. Mình thử hỏi cảnh sát và vị bác sỹ tóc nâu đủ thứ chuyện và gia đình, về bố mẹ mình, nhưng câu trả lời duy nhất nhận lại được chỉ là tên của mình.
 
@@ -27,7 +27,7 @@ Mình xoay vòi nước lại, tiếng nước ngừng chảy kèm theo một ti
 
 Mình quay lại chỗ chiếc ghế dài đã ngồi trước đó. Vị bác sỹ tóc nâu bảo mình ngồi đó đợi vì có người muốn gặp mình, nhưng sau đó chẳng thấy anh ấy đâu nữa.
 
-Kể cả sau khi vào phòng tắm một lúc do bắt đầu thấy mệt mỏi với việc ngồi đợi, cả hành lang chẳng còn âm thanh gì khác ngoài tiếng thở và tiếng bước chân vang vọng của chính mình. Chắc phải đợi thêm lúc nữa rồi, mình nghĩ.
+Ngồi đợi mãi chán, mình vào phòng tắm một lúc, vậy mà quay ra hành lang vẫn chẳng còn âm thanh gì khác ngoài tiếng thở và tiếng bước chân vang vọng của chính mình. Chắc phải đợi thêm lúc nữa rồi, mình nghĩ.
 
 Mình ngồi phịch xuống ghế, thật thoải mái làm sao. Sau một hồi sờ chán chê và cảm nhận sự thích thú khi chạm vào chiếc ghế, mình nhặt một quyển sách ở đầu ghế lên.
 
@@ -39,13 +39,13 @@ Mình lật từng trang sách chứa toàn các khổ thơ ngắn và hình min
 
 {{< ngat-canh sym="🦋" >}}
 
-Mình đã đọc sách mất bao lâu rồi nhỉ. Bỗng mình thấy có một bóng người trước mặt nên giật mình nhìn lên. Nhưng chắc cổ hơi ê do cúi xuống đọc một lúc lâu nên hành động ngước lên nhìn trên thực tế diễn ra chậm hơn nhiều.
+Mình đã đọc sách mất bao lâu rồi nhỉ. Bỗng mình thấy có một bóng người trước mặt nên giật mình nhìn lên. Nhưng cúi đọc lâu quá nên cổ mỏi, mình ngẩng lên chậm hơn mình tưởng.
 
-Người đàn ông đó nhìn mình với đôi mắt như đôi hòn bi, mái tóc đen dài không được cắt tỉa được buộc lại sau lưng. Trên cổ anh ấy đeo một sợi dây chuyền màu nâu có mặt vàng sáng lấp lánh. Do hoàn toàn không để ý gì nên mình không thể giấu sự bất ngờ trước sự hiện diện đột ngột của người đàn ông.
+Người đàn ông đó nhìn mình với đôi mắt tròn như hai hòn bi, mái tóc đen dài, không cắt tỉa, buộc gọn sau lưng. Trên cổ anh ấy đeo một sợi dây chuyền màu nâu có mặt vàng sáng lấp lánh. Do hoàn toàn không để ý gì nên mình không thể giấu sự bất ngờ trước sự hiện diện đột ngột của người đàn ông.
 
 "Xin chào."
 
-Cất lời chào dịu dàng, người trước mặt mình chắc chắn là người sống bằng xương bằng thịt rồi - một người đàn ông trưởng thành. Rồi thì mình cũng thấy vị bác sỹ tóc nâu nọ đang đứng sau người đàn ông kia với vẻ đầy quan tâm.
+Nghe lời chào dịu dàng ấy, mình mới chắc người trước mặt là người thật bằng xương bằng thịt - một người đàn ông trưởng thành. Rồi thì mình cũng thấy vị bác sỹ tóc nâu nọ đang đứng sau người đàn ông kia với vẻ lo lắng.
 
 Đầu mình xoay mòng mòng, mơ hồ trước tình cảnh này. Thấy vậy, người đàn ông nọ cũng lo lắng theo.
 
@@ -55,15 +55,15 @@ Cất lời chào dịu dàng, người trước mặt mình chắc chắn là n
 
 "Vậy sao... Thế thì tốt rồi."
 
-Anh ấy cười với vẻ nhẹ nhõm khi nghe mình trả lời, làm mình cũng bớt căng thẳng theo. Mà chắc do nụ cười của anh ấy cũng trẻ con nữa.
+Anh ấy cười với vẻ nhẹ nhõm khi nghe mình trả lời, làm mình cũng bớt căng thẳng theo. Chắc cũng vì nụ cười của anh ấy có nét gì đó trẻ con.
 
 "Cậu ấy kể cho anh là em bị mất trí nhớ, hẳn là một chuyện không dễ dàng gì. Em còn ở đây một mình nữa nhỉ? Chỗ anh cũng có vài bạn khác trong tình cảnh giống em đó. Em muốn về ở với tụi anh không? Chỉ cần ở đến khi nào em cần thôi."
 
-Lời mời đột ngột này làm mình bất ngờ vô cùng. Một người mới gặp lần đầu đã mời mình về ở cùng anh ấy. Mình không biết nên trả lời như nào, vì không biết chỉ trả lời có thôi có sao không nữa.
+Lời mời đột ngột này làm mình bất ngờ vô cùng. Một người mới gặp lần đầu đã mời mình về ở cùng anh ấy. Mình không biết nên trả lời như nào, cũng không biết cứ thế gật đầu thì có ổn không.
 
-Nhận thấy vẻ băn khoăn của mình, vị bác sỹ tóc nâu tiếp lời anh kia "Anh không nghĩ em thấy vui khi ở đây đâu, nên mới gọi cậu ấy đến đây vì nghĩ em sẽ thích nói chuyện với các bạn trạc tuổi hơn là với người lớn như anh. Với đừng trông mặt mà bắt hình dong, em có thể tin tưởng anh ấy đó."
+Nhận thấy vẻ băn khoăn của mình, vị bác sỹ tóc nâu tiếp lời anh kia "Anh không nghĩ em thấy vui khi ở đây đâu, nên mới gọi cậu ấy đến đây vì nghĩ em sẽ thích nói chuyện với các bạn trạc tuổi hơn là với người lớn như anh. Với lại, đừng trông mặt mà bắt hình dong, em có thể tin tưởng anh ấy đó."
 
-Người đàn ông trước mặt mình quay lại nhìn vị bác sỹ "Cậu hơi quá đáng đấy nhé" nhưng khi nhận ra mình đang nhìn, anh ấy nhăn mặt cười khổ sở.
+Người đàn ông trước mặt mình quay lại nhìn vị bác sỹ "Cậu hơi quá đáng đấy nhé" nhưng khi nhận ra mình đang nhìn, anh ấy cười gượng.
 
 Đúng là ở đây mình chẳng làm gì hơn được ngoài việc ngồi trên giường đọc sách. Ở đây mình chỉ có thể nói chuyện với những người lớn xa lạ, có lẽ nói chuyện với mấy đứa trạc tuổi không quen biết sẽ dễ dàng hơn chăng.
 
@@ -71,7 +71,7 @@ Mình quyết định đến nhà anh ấy ở dẫu lòng vẫn còn chút ng�
 
 {{< ngat-canh sym="🦋" >}}
 
-Chúng mình lái xe rời khỏi thị trấn và băng qua khu rừng. Thỉnh thoảng xe sẽ xóc nhẹ với tiếng cành cây bị cán vỡ phía dưới, nhưng tốc độ di chuyển khá dễ chịu.
+Xe chở tụi mình rời khỏi thị trấn và băng qua khu rừng. Thỉnh thoảng xe sẽ xóc nhẹ với tiếng cành cây bị cán vỡ phía dưới, nhưng tốc độ di chuyển khá dễ chịu.
 
 Sau khoảng hai mươi phút di chuyển, chúng mình dừng lại trước một tòa nhà cũ kỹ mốc meo.
 
@@ -89,7 +89,7 @@ Mình đang nhìn xung quanh thì anh ấy vẫy mình gọi "Hướng này nha 
 
 Người đàn ông lấy một cái ghế gần bàn làm việc rồi đem đến chỗ mình. "Ngồi xuống đi." Mình ngồi xuống, một tiếng kẽo kẹt chói tai vang lên.
 
-"Đừng lo. Đúng là cũ kỹ thật nhưng chân ghế không gãy hay gì đâu", anh ấy nói với nụ cười có chút khổ sở... Chắc là do thấy vẻ lưỡng lự của mình rồi.
+"Đừng lo. Đúng là cũ kỹ thật nhưng chân ghế không gãy hay gì đâu", anh ấy cười gượng nói... Chắc là do thấy vẻ lưỡng lự của mình rồi.
 
 "Ôi, anh quên chưa hỏi tên của em...", người đàn ông nói khi ngồi trên một chiếc ghế khác cũng cũ kỹ chẳng kém.
 
@@ -119,7 +119,7 @@ Mình liên tục gật đầu đồng ý trước những quy định anh ấy 
 
 Nói rồi anh đưa mình một tờ ghi chú ghi lại tất cả những điều dặn dò bằng nét chữ nắn nót, to và rõ ràng. Dưới "lời hứa" cuối cùng là một sinh vật kỳ lạ, tròn trĩnh, lông xù với hai cái tai trồi ra nom vụng về vô cùng.
 
-"Ahaha... Con thỏ đấy... Hội họa khó quá đi."
+"Ahaha... Con thỏ đấy... Vẽ vời khó thật đấy."
 
 Mình nhìn lại sinh vật bí ẩn kia lần nữa sau khi nghe thấy câu đó. Sau khi biết nó phải là con gì, mình cũng thấy hơi... giống con thỏ thật. Nhìn chăm chú một hồi thì mình cũng thuyết phục được bản thân rằng sinh vật đấy đúng là con thỏ thật.
 
@@ -171,21 +171,21 @@ Thầy vỗ tay để thu hút sự chú ý của cả bọn.
 
 "Trời, nghe khó chịu vậy." cậu bé tóc bạc bĩu môi.
 
-"Tụi em lớn hơn ở đây nhé. Em là anh trai của Allen, còn ba em là chị gái của em ấy, nên Thầy sẽ để các em chăm lo cho Allen." Thầy mim cười nói với cậu bé kia. Cậu bé tóc bạc nhếch mép cười với vẻ thỏa mãn... Mình nghĩ chắc anh này cũng dễ đối phó thôi.
+"Các em đến đây trước Allen cả rồi, nên Thầy sẽ để các em chăm lo cho bạn ấy nhé." Thầy mim cười nói với cậu bé kia. Cậu bé tóc bạc nhếch mép cười với vẻ thỏa mãn... Mình nghĩ chắc cậu này cũng dễ đối phó thôi.
 
 "Thầy sẽ gọi các em khi bữa tối sẵn sàng." Thầy nói rồi rời khỏi phòng.
 
 Mình và đám trẻ còn lại kéo nhau ngồi giữa phòng. Bốn người đó ngồi quanh mình, chăm chú nhìn mặt mình rồi còn kéo kéo gấu áo quần mình. Mình để cho họ thoả cái sự tò mò đó không chút chống cự.
 
-"Ôi phải rồi, quên chưa giới thiệu bản thân nhỉ. Ừm, em là Allen nhỉ?"
+"Ôi phải rồi, quên chưa giới thiệu bản thân nhỉ. Ừm, cậu là Allen nhỉ?"
 
-Giật mình trước câu hỏi đột ngột, mình quay lại hướng giọng nói phát ra. Là giọng của cậu bé tóc bạc nổi bật nhất trong cả bốn. Anh ấy đội chiếc mũ len màu đen được đính sợi xích bạc. Ẩn sau mái tóc bạc là đôi mắt màu olive trông như đang suy tính chuyện gì đó. Anh ta mặc bộ quần áo màu xanh lục điểm vài đường kẻ màu bạc.
+Giật mình trước câu hỏi đột ngột, mình quay lại hướng giọng nói phát ra. Là giọng của cậu bé tóc bạc nổi bật nhất trong cả bốn. Cậu ấy đội chiếc mũ len màu đen được đính sợi xích bạc. Ẩn sau mái tóc bạc là đôi mắt màu ô liu trông như đang suy tính chuyện gì đó. Cậu ta mặc bộ quần áo màu xanh lục điểm vài đường kẻ màu bạc.
 
-"Vâng, em là Allen ạ."<br>
-"Okay, anh là Marcus. Rất vui được gặp em, Allen!"<br>
+"À, tớ là Allen."<br>
+"Được rồi, tớ là Marcus. Rất vui được gặp cậu, Allen!"<br>
 "...K-Không phải đâu, ừm... Allen à. Là Joshua."
 
-Cô bé tóc nâu nãy giờ trốn sau cô bé tóc đen ngắt lời cậu bé kia khi anh ta tính bắt tay mình. Tóc cô bé được buộc hướng xuống dưới với hai chiếc cặp tóc tròn màu đỏ mỗi bên. Chị ấy mặc một chiếc áo choàng đỏ và một chiếc váy xòe phồng được che phủ ở phía trước bằng một chiếc tạp dề đỏ. Nhìn chị làm mình nghĩ đến chuyện cổ tích Cô Bé Quàng Khăn Đỏ.
+Cô bé tóc nâu nãy giờ trốn sau cô bé tóc đen ngắt lời cậu bé kia khi cậu ta tính bắt tay mình. Tóc cô bé buộc rủ xuống dưới với hai chiếc cặp tóc tròn màu đỏ mỗi bên. Cô ấy mặc một chiếc áo choàng đỏ và một chiếc váy xòe phồng, phía trước đeo một chiếc tạp dề đỏ. Nhìn cô ấy làm mình nghĩ đến chuyện cổ tích Cô Bé Quàng Khăn Đỏ.
 
 "Gì vậy! Chelsy à, sao lại để lộ sớm thế. Đôi lúc cậu nghiêm túc quá đấy. Ờm, này gọi là gì... thư giãn chút đi!"
 
@@ -195,29 +195,29 @@ Joshua nhéo nhẹ tai cô bạn tên Chelsy kia. Cô khẽ kêu lên một ti�
 
 Hay ngại hay không thì vụ kia cũng là lỗi Joshua mà... Mình chuyển sự chú ý sang Chelsy. Đúng lúc đang xem cô có ổn không thì có ai đó dùng sức nắm lấy cả hai tay mình.
 
-"Ừm, Allen! Em là Allen! Ôi, ơ, không! Ừm, Allen!"
+"Ừm, Allen! Tớ là Allen! Ôi, ơ, không! Ừm, Allen!"
 
-"Ôi... Từ từ... Bình tĩnh đi ạ..." Nhưng cô bé kia bắt đầu vung tay lên xuống như cố phản chiếu từng từ mình nói ra ngược lại mình.
+"Ôi... Từ từ... Bình tĩnh đi nào..." Nhưng cô bé kia bắt đầu vung tay lên xuống như cố phản chiếu từng từ mình nói ra ngược lại mình.
 
-Cô bé này có mái tóc lượn sóng màu trắng điểm chút sắc đỏ-tím tối hơn màu mắt một chút, đầu đội một chiếc mũ đen nhỏ được đính hoa nhân tạo màu tím. Do cô đang vung tay loạn cả lên nên nhìn không rõ lắm, cơ mà cái thứ đang vẫy lên xuống loạn xạ kia chắc là ruy băng. Nổi bật nhất trong thị giác đang rung lắc của mình là chiếc váy họa tiết bàn cờ.
+Cô bé này có mái tóc lượn sóng màu trắng điểm chút sắc đỏ-tím tối hơn màu mắt một chút, đầu đội một chiếc mũ đen nhỏ được đính hoa nhân tạo màu tím. Do cô đang vung tay loạn cả lên nên nhìn không rõ lắm, cơ mà cái thứ đang vẫy lên xuống loạn xạ kia chắc là ruy băng. Giữa tầm nhìn đang chao đảo, thứ nổi bật nhất là chiếc váy họa tiết bàn cờ.
 
-"Ôi xin lỗi nhé! Tại chị đang vui quá là vui đi. Ừm... Tên chị là Letty! Có một anh nữa tên Rick, nhưng giờ anh đang say giấc rồi nên em không gặp được đâu. Khi nào đến buổi sáng thì chị sẽ bảo anh ấy chào em nhé Allen!"
+"Ôi xin lỗi nhé! Tại tớ đang vui quá là vui đi. Ừm... Tên tớ là Letty! Có một cậu nữa tên Rick, nhưng giờ cậu ấy đang say giấc rồi nên Allen chưa gặp được đâu. Khi nào đến buổi sáng thì tớ sẽ bảo cậu ấy chào Allen nhé!"
 
 Sau khi liến thoắng xong thì Letty cũng ngưng vung tay. Cô bé chẳng đổ giọt mồ hôi nào cả, còn mình thì mãi mới lấy lại được hơi thở sau màn vận động kia, tay mình còn mất luôn cảm giác rồi mà... Chẳng lẽ thể lực mình kém thế?
 
-Nhận thấy vẻ mặt đuối sức của mình, Letty hỏi với vẻ lo lắng "Có sao không em?". Không chị ơi, đấy không phải vấn đề đâu ạ... Nhưng mình quá mệt mỏi để đáp lại.
+Nhận thấy vẻ mặt đuối sức của mình, Letty hỏi với vẻ lo lắng "Có sao không cậu?". Không đâu, Letty ơi, đấy không phải vấn đề gì cả... Nhưng mình quá mệt mỏi để đáp lại.
 
-Mình dáo dác nhìn quanh để tìm kiếm sự giúp đỡ thì bắt gặp ánh mắt của một cô bé khác mang mái tóc đen dài bóng mượt đội chiếc khăn trắng với ruy băng màu đỏ rượu. Cô mặc một chiếc váy liền màu đen với họa tiết khơi dậy sự tò mò của người đối diện, nhưng tất cả chưa là gì với ánh nhìn sắc lẻm từ đôi mắt đỏ làm mình có chút hoảng sợ.
+Mình dáo dác nhìn quanh để tìm kiếm sự giúp đỡ thì bắt gặp ánh mắt của một cô bé khác. Cô có mái tóc đen dài bóng mượt, đội chiếc khăn trắng với ruy băng màu đỏ rượu. Cô mặc một chiếc váy liền màu đen với họa tiết khơi dậy sự tò mò của người đối diện, nhưng tất cả chưa là gì với ánh nhìn sắc lẻm từ đôi mắt đỏ làm mình có chút hoảng sợ.
 
 Sực nhận ra chưa biết tên cô bé này, mình tính nói chuyện với cô ấy nhưng lại thoáng chần chừ. Cơ mà nãy giờ cô cũng chưa nói câu nào ta, lại còn ánh nhìn chằm chằm kia nữa... Xem ra cô ấy không thích mình.
 
 Joshua vỗ lưng mình một cái khi nhận ra tình cảnh khó xử kia.
 
-"Ồ, nhỏ này không nói chuyện mấy đâu. Đặc biệt là mấy cái như giới thiệu - đến anh còn không moi được câu nào luôn mà. Nên không sao đâu nha nhóc."
+"Ồ, nhỏ này không nói chuyện mấy đâu. Đặc biệt là mấy cái như giới thiệu - đến tớ còn không moi được câu nào luôn mà. Nên không sao đâu nha nhóc."
 
 Joshua xem ra đang cố trấn an mình, còn biểu cảm của cô bé kia vẫn giữ nguyên. Chắc là cô ấy không giỏi biểu lộ cảm xúc thôi nhỉ, đành hỏi Joshua vậy.
 
-"...Tên chị ấy là gì ạ?"<br>
+"...Tên cô ấy là gì?"<br>
 "Là S..."<br>
 "...Stella."
 
@@ -231,11 +231,11 @@ Rồi không nói gì nữa.
 
 Joshua gãi cổ đầy vẻ hiếu kỳ rồi khoanh tay lại nhìn mình.
 
-"Dẫu sao thì, em cũng không biết chút gì, kiểu như, thứ gì đặt ở đâu, nhỉ?"
+"Dẫu sao thì, cậu cũng không biết chút gì, kiểu như, thứ gì đặt ở đâu, nhỉ?"
 
 Mình lắc đầu.
 
-"Được rồi, anh sẽ dẫn nhóc đi xem nơi nào được phép đặt chân tới còn nơi nào không nhé. Trước tiên..."
+"Được rồi, tớ sẽ dẫn nhóc đi xem nơi nào được phép đặt chân tới còn nơi nào không nhé. Trước tiên..."
 
 Joshua ra hiệu mình đi theo, sau đó dẫn mình đi một vòng tòa nhà. Tham quan một lượt xong thì Thầy quay lại chỗ tụi mình, và tất cả cùng nhau ra phòng ăn ăn tối.
 
