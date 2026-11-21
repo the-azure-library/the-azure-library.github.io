@@ -7,7 +7,7 @@ weight: 10
 
 Hành lang trắng cứ kéo dài mãi, từng bước chân của tôi cũng vang vọng theo.
 
-Tình hình cứ như này làm tôi mơ hồ cảm thấy bồn chồn và bất lực. Vừa nãy tôi còn ở một nơi có người trông như làm công nhân, nhưng chỗ hiện tại chẳng có chút bóng dáng nào của sinh vật sống. Sự tĩnh mịch nơi này chỉ làm tôi thêm bất an.
+Tình hình cứ như này làm tôi mơ hồ cảm thấy bồn chồn và bất lực. Vừa nãy tôi còn ở một nơi có người trông như làm công nhân, nhưng chỗ hiện tại chẳng có chút bóng dáng nào của sự sống. Sự tĩnh mịch nơi này chỉ làm tôi thêm bất an.
 
 Thị trấn nằm gần một khu rừng lớn này vốn là nơi tấp nập người sinh sống. Một thị trấn khá lớn, nhưng không đủ để được coi như một thành phố. So với trong rừng - nơi mọi người sống khá đạm bạc, thiếu thốn - người dân ở đây lại sung túc hơn nhiều.
 
@@ -19,17 +19,17 @@ Từ phía sau có ai đó nắm lấy vai tôi rồi nói lớn với giọng r
 
 "May là tôi nghĩ đến chuyện đi tìm cậu nhé... Lại đi lạc nữa hả?", Cliff - người bạn duy nhất của tôi - vừa hỏi vừa mỉm cười.
 
-"...Chắc là tôi không giỏi nhớ đường với hướng lắm. Từ lúc sang kia sống thì tôi chỉ đến thị trấn để... mua nhu yếu phẩm thôi mà."
+"...Chắc là tôi không giỏi nhớ đường với nhớ hướng lắm. Từ lúc sang kia sống thì tôi chỉ đến thị trấn để... mua nhu yếu phẩm thôi mà."
 
-"Kể cả thế thì khoảng thời gian cậu sống ở đây cũng lâu hơn mà... Mà thôi thì, từ lúc chúng ta quen nhau ở đại học thì cậu cũng hay đi lạc mà..." Cliff nhăn mày, trán hằn lên những vết nhăn.
+"Kể cả thế thì khoảng thời gian cậu sống ở đây cũng lâu hơn mà... Cơ mà từ lúc chúng ta quen nhau ở đại học thì cậu cũng đã hay đi lạc rồi..." Cliff nhăn mày, trán hằn lên những vết nhăn.
 
 "...Mà tôi vẫn không tài nào hiểu được sao cậu lại quyết định mua lại tòa nhà đó rồi dọn về đấy sống. Cậu có biết rằng có nhiều tin đồn kỳ quái về tòa nhà đó lắm không? Chẳng hạn như chỗ đấy là một viện tâm thần này, hay là nơi để thực thi thí nghiệm lên con người... Tin đồn kiểu gì tôi cũng nghe rồi đấy."
 
-"Cái đó thì phải cảm ơn cậu rồi, đúng là chỗ đó kỳ lạ thật. Tòa nhà đó không có cửa sổ, mà thậm chí có một căn phòng cũng làm người ta liên tưởng đến mấy chuyện kia thật. Nhưng thực lòng thì tôi lại thích nó. Người ta ít bén mảng đến thì ở đáy lại yên tĩnh."
+"Cái đó thì phải cảm ơn cậu rồi, đúng là chỗ đó kỳ lạ thật. Nhà gì mà không có cửa sổ, rồi thậm chí còn có một căn phòng cũng làm người ta liên tưởng đến mấy cái chuyện kia đấy. Nhưng thực lòng thì tôi lại thích nó. Người ta ít bén mảng đến thì lại được cái là yên tĩnh."
 
 "Suy cho cùng thì vẫn là lỗi của tôi hả... Thôi được rồi, cái phòng đấy có gì vậy? Là cái căn phòng ở cuối phía trái hành lang tầng hai nhỉ?" Cliff hỏi tôi với chút lưỡng lự.
 
-"Đến chuyện vào dọn nó thôi tôi còn không muốn mà, tôi cứ khóa nó lại rồi để kệ đấy thôi."
+"Đến chuyện vào dọn nó thôi tôi còn không muốn mà, cứ khóa lại rồi để kệ đấy thôi."
 
 Trán bạn tôi còn xuất hiện nhiều nếp nhăn hơn nữa khi nghe câu trả lời. Cliff khẽ thở dài rồi cả hai im lặng mất một lúc.
 
@@ -41,11 +41,11 @@ Cliff lẳng lặng lắc đầu. Lúc tôi đọc tin tức thì chỉ biết l
 
 "Trước hết thì cậu thử nói chuyện với thằng bé được không? Tôi thử rồi mà... không khả quan lắm."
 
-Nói rồi cậu ấy dẫn tôi đi về hướng ngược lại. Nhìn bộ dạng mang đầy vẻ tang thương của Cliff, tôi chỉ lẳng lặng theo sau cậu mà thầm lo lắng cho bạn mình.
+Nói rồi cậu ấy dẫn tôi đi về hướng ngược lại. Nhìn bộ dạng mang đầy vẻ tang thương của Cliff, tôi chỉ lẳng lặng theo sau mà thầm lo lắng cho bạn mình.
 
 {{< ngat-canh sym="🦋" >}}
 
-Thị trấn này gần đây xảy ra rất nhiều vụ việc. Tình tiết các vụ việc thì muôn hình vạn trạng, nhưng lời khai của những kẻ tình nghi và thủ phạm đều có nội dung kiểu "Hình như lúc đó có cái gì đó đã điều khiển tôi làm thế...", đến mức mà tin tức báo chí và TV đưa đều chuyển sự chú ý vào mấy lời khai đó hơn là chi tiết vụ việc.
+Thị trấn này gần đây xảy ra rất nhiều vụ việc. Tình tiết các vụ việc thì muôn hình vạn trạng, nhưng lời khai của những kẻ tình nghi và thủ phạm đều có nội dung kiểu "Hình như lúc đó có cái gì đã điều khiển tôi làm thế...", đến mức mà tin tức báo chí và TV đưa đều chuyển sự chú ý vào mấy lời khai đó hơn là chi tiết vụ việc.
 
 Cliff đã kể hết những gì cậu ấy biết cho tôi trong lúc cả hai đến chỗ thằng bé đang được bệnh viện chăm sóc.
 
@@ -59,7 +59,7 @@ Sau đó thì một người hàng xóm thấy thằng bé trong tình trạng m
 
 "Mất trí nhớ chăng...?"
 
-Cliff nhìn tôi, gật đầu, rồi bước chậm lại một chút. Có vẻ cậu ấy đã nhận ra tôi đang thở không ra hơi rồi. Dù thấy bản thân thật thảm hại nhưng tôi cũng đi chậm lại theo.
+Cliff nhìn tôi, gật đầu, rồi bước chậm lại một chút. Có vẻ cậu ấy đã nhận ra tôi đang thở hổn hển rồi. Dù thấy bản thân thật thảm hại nhưng tôi cũng đi chậm lại theo.
 
 "Tôi chưa bảo thằng bé chuyện bố mẹ nó không qua khỏi, lúc này mà nói ra thì chắc nó không chịu nổi mất. Thằng bé cũng không còn người thân nào khác... Mà cậu có nhận đám trẻ không nơi nương tựa về chăm sóc và dạy dỗ chúng nhỉ?"
 
