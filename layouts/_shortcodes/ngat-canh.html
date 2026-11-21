@@ -1,1 +1,5 @@
-<div class="tq-divider" aria-hidden="true">◆ ◆ ◆</div>
+{{- /*
+  Ngắt cảnh. Mặc định hiện "◆ ◆ ◆":  {{< ngat-canh >}}
+  Đổi ký hiệu khác (vd icon bướm trong Alice Mare): {{< ngat-canh sym="🦋" >}}
+*/ -}}
+<div class="tq-divider" aria-hidden="true">{{ .Get "sym" | default "◆ ◆ ◆" }}</div>
