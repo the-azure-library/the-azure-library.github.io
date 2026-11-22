@@ -1,0 +1,18 @@
+{{- /*
+  Trả về trang gốc của "truyện" chứa Page: section con trực tiếp dưới
+  BookSection (ví dụ content/docs/alice-mare/_index.md), bất kể Page là
+  _index của một chương (section) hay một trang lẻ (leaf) nằm sâu bao
+  nhiêu cấp bên dưới. Dùng để nhóm các trang cùng một truyện khi tính
+  prev/next, tránh coi _index của chương là một "truyện" riêng.
+*/ -}}
+{{- $page := .Page -}}
+{{- $bookSection := .BookSection -}}
+{{- $root := $page -}}
+{{- if not (and $page.Parent (eq $page.Parent.RelPermalink $bookSection.RelPermalink)) -}}
+  {{- range $page.Ancestors -}}
+    {{- if and .Parent (eq .Parent.RelPermalink $bookSection.RelPermalink) -}}
+      {{- $root = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $root -}}

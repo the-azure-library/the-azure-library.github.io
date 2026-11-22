@@ -1,26 +1,22 @@
 {{- /*
   Override của theme hugo-book: chỉ cho phép prev/next điều hướng trong
-  cùng một truyện (cùng section cha trực tiếp dưới BookSection), tránh
-  nhảy sang truyện khác khi hết chương cuối/đầu.
+  cùng một truyện (section con trực tiếp dưới BookSection), tránh nhảy
+  sang truyện khác khi hết chương cuối/đầu. Gốc truyện được tính bằng
+  cách đi ngược lên Ancestors (xem docs/story-root), nên _index của một
+  chương chia nhiều tiểu mục (ví dụ chuong-01/_index.md) vẫn được coi là
+  thuộc cùng truyện, không bị tách ra như một truyện riêng.
   Markup/class giữ gần như nguyên bản để CSS hiện tại vẫn áp dụng đúng.
 */ -}}
 {{- with (partialCached "docs/menu-section" .Site) -}}
+  {{- $bookSection := . -}}
   {{- $allPages := partialCached "docs/menu-section-pages" . -}}
 
-  {{- /* Gốc truyện của trang hiện tại: chính nó nếu là _index (section),
-         hoặc section cha trực tiếp nếu là một chương */ -}}
-  {{- $currentRoot := $ -}}
-  {{- if not $.IsSection -}}
-    {{- $currentRoot = $.Parent -}}
-  {{- end -}}
+  {{- $currentRoot := partial "docs/story-root" (dict "Page" $ "BookSection" $bookSection) -}}
 
   {{- /* Lọc lại danh sách trang: chỉ giữ các trang có cùng gốc truyện */ -}}
   {{- $scratch := newScratch -}}
   {{- range $allPages -}}
-    {{- $root := . -}}
-    {{- if not .IsSection -}}
-      {{- $root = .Parent -}}
-    {{- end -}}
+    {{- $root := partial "docs/story-root" (dict "Page" . "BookSection" $bookSection) -}}
     {{- if and $root $currentRoot (eq $root.RelPermalink $currentRoot.RelPermalink) -}}
       {{- $scratch.Add "Pages" (slice .) -}}
     {{- end -}}
