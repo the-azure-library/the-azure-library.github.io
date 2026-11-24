@@ -1,0 +1,13 @@
+{{- /*
+  Khối trích dẫn (thư, bài thơ, chữ trên sách/bảng...).
+  {{< trich-dan >}}Nội dung trích dẫn.{{< /trich-dan >}}
+  Ghi nguồn bên dưới: {{< trich-dan nguon="Alice ở xứ sở thần tiên" >}}...{{< /trich-dan >}}
+*/ -}}
+<figure class="tq-quote">
+  <blockquote>
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+  </blockquote>
+  {{- with .Get "nguon" }}
+  <figcaption>— {{ . | $.Page.RenderString }}</figcaption>
+  {{- end }}
+</figure>

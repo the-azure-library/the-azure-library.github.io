@@ -10,6 +10,7 @@ layouts/_partials/docs/inject/footer.html   dòng ghi chú bản quyền cuối 
 layouts/_shortcodes/dau-chuong.html         đầu chương
 layouts/_shortcodes/ngat-canh.html          ◆ ◆ ◆
 layouts/_shortcodes/ghi-chu.html            ghi chú người dịch
+layouts/_shortcodes/trich-dan.html          khối trích dẫn
 ```
 
 ## hugo.toml

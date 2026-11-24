@@ -66,6 +66,7 @@ thì dùng `{{< dau-chuong so="Chương I" ten="Tên chương" >}}`.
 | `dau-chuong` | Dòng đầu tiên của mỗi chương | `{{< dau-chuong >}}` |
 | `ngat-canh` | Ngắt cảnh giữa hai đoạn (hiện `◆ ◆ ◆`) | `{{< ngat-canh >}}` |
 | `ghi-chu` | Chú thích/giải nghĩa của người dịch | `{{< ghi-chu >}}Nội dung chú thích.{{< /ghi-chu >}}` |
+| `trich-dan` | Trích dẫn thư, thơ, chữ viết trong truyện (tuỳ chọn `nguon`) | `{{< trich-dan nguon="Nguồn" >}}Nội dung.{{< /trich-dan >}}` |
 
 Xem truyện đầu tiên **Alice Mare**
 (`content/docs/alice-mare/`) để có ví dụ đầy đủ.
@@ -141,7 +142,7 @@ content/
 layouts/
   _partials/docs/prev-next.html   override chương trước/sau theo truyện
   _partials/docs/inject/          hook head/menu/footer của bộ giao diện
-  _shortcodes/                    dau-chuong, ngat-canh, ghi-chu
+  _shortcodes/                    dau-chuong, ngat-canh, ghi-chu, trich-dan
 assets/styles/custom.css          CSS của bộ giao diện Thư Quán
 themes/hugo-book/                 theme gốc (submodule, không sửa)
 ```

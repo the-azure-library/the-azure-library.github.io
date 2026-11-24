@@ -26,6 +26,10 @@ Tiếng ù ù trong tai tôi vẫn không dứt. Trái lại, giọng nói kia d
 "Tôi nên XXXX cái gì?"<br>
 "Để xem nào... Ngươi nên XXXX kẻ xấu, và rồi ngươi cũng sẽ được XXXX"
 
+{{< ghi-chu >}}
+XXXX ở đây trong bản gốc là 1 từ tiếng Anh được sử dụng xuyên suốt cả Light Novel.
+{{< /ghi-chu >}}
+
 Đó là những lời con mèo đã nói với tôi... Không, thực ra tôi chẳng thể nhớ nổi có đúng con mèo là kẻ đã nói mấy câu đó không nữa.
 
 Nhưng tôi luôn muốn có ai đó XXXX tôi. Đây là điều duy nhất bám rễ trong tâm trí tôi trong khoảng thời gian rất dài. Đó chính là lý do tôi quan sát đám trẻ ở tòa nhà này và tiếp tục nghiên cứu — với hy vọng sẽ tìm ra được đáp án.

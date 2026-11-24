@@ -262,6 +262,35 @@ h1, h2, h3, h4,
   margin-bottom: 0;
 }
 
+/* Trích dẫn (shortcode trich-dan) */
+.tq-quote {
+  margin: 1.75rem 0;
+}
+
+.tq-quote blockquote {
+  margin: 0;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  border-inline-start: 3px solid var(--tq-accent);
+  font-style: italic;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+.tq-quote blockquote p:first-child {
+  margin-top: 0;
+}
+
+.tq-quote blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.tq-quote figcaption {
+  margin-top: 0.5rem;
+  text-align: end;
+  color: var(--tq-muted);
+  font-size: 0.95rem;
+}
+
 /* ---------- 5. Chân trang ---------- */
 
 .book-footer {
