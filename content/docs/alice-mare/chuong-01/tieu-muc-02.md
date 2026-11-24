@@ -241,251 +241,247 @@ Joshua ra hiệu mình đi theo, sau đó dẫn mình đi một vòng tòa nhà.
 
 {{< ngat-canh sym="🦋" >}}
 
-<!-- Chưa dịch — Tiểu mục 2 (tiếp): vài tháng trôi qua, Allen tìm hiểu thêm
-     về Letty, Rick, Chelsy, Joshua, Stella, Thầy; rồi giấc mơ có "giọng nói"
-     con gái, bị sốt, gặp Chelsy/Rick/Joshua, nghe chuyện "giọng nói" trên
-     tầng 2, chạm mặt Stella, rồi tự mình đi tìm hiểu và làm vỡ mô hình bướm.
-A few months passed after I began living with Teacher and the other children. In living with and talking to the others, I came to know all about them.
+Vài tháng đã trôi qua kể từ khi mình dọn đến sống cùng Thầy và các bạn. Sống chung và trò chuyện với mọi người, dần dần mình đã hiểu khá rõ về từng người.
 
-Letty was a very energetic girl. So, so energetic that she often pushed you around. As for the boy she mentioned on the first day, Rick, I was able to meet him during free time that night while on my way to borrow a book from the library. His white hair with purple-red highlights was much like Letty's, but tied together in the back, and he wore pants with small ribbons on them. He was the spitting image of Letty; I figured they might have been twins.
+Letty là một cô bé rất năng động, năng động đến mức hay lôi tuột người khác chạy theo mình. Còn cậu bé mà Letty nhắc đến hôm đầu tiên, Rick, thì mình đã gặp ngay tối hôm đó, vào giờ tự do lúc đang trên đường đến thư viện mượn sách. Rick có mái tóc trắng điểm màu đỏ-tím y như Letty, nhưng buộc gọn ra sau, và mặc chiếc quần đính mấy chiếc ruy băng nhỏ. Hai người giống nhau như đúc, nên mình đoán chắc là anh em sinh đôi.
 
-We didn't talk much that day, but his personality immediately seemed very different from Letty's: he was calm, and gave the impression of never getting too excited about anything. I went looking for Rick the next day to talk to him some more, but I couldn't find him. All Letty had to tell me was that he was "saying good night." I saw Rick many times after that during free time at night and talked to him then, but I was still wondering about what Letty said.
+Hôm đó hai đứa không nói chuyện được mấy, nhưng mình nhận ra ngay tính cách Rick khác Letty một trời một vực: điềm tĩnh, lúc nào cũng như chẳng mấy hào hứng với bất cứ thứ gì. Hôm sau mình đi tìm Rick để nói chuyện thêm nhưng không thấy đâu. Letty chỉ bảo là cậu ấy đang "chúc ngủ ngon" rồi. Sau đó mình còn gặp và nói chuyện với Rick nhiều lần vào giờ tự do buổi tối, nhưng vẫn thắc mắc mãi về câu nói ấy của Letty.
 
-Chelsy was a somewhat cowardly but very kind girl, who always showed concern for those around her. It seemed that Chelsy might have been better at folding laundry and cleaning than Teacher was. She wasn't one for running around outside, so typically I only saw her go outside the facility to water plants in the garden.
+Chelsy là một cô bé hơi nhút nhát nhưng rất tốt bụng, lúc nào cũng quan tâm đến mọi người xung quanh. Có khi cậu ấy còn gấp quần áo và dọn dẹp giỏi hơn cả Thầy. Chelsy không thích chạy nhảy ngoài trời, nên mình thường chỉ thấy cậu ấy ra ngoài để tưới cây trong vườn.
 
-She kept an unnerving amount of teddy bears in her room, and my legs almost gave out when I first went in and saw them. But girls like stuffed animals, so that probably explained it for Chelsy too.
+Trong phòng Chelsy có nhiều gấu bông đến mức phát sợ, lần đầu bước vào nhìn thấy chúng mà mình suýt khuỵu cả chân. Nhưng con gái thì thích thú nhồi bông, chắc Chelsy cũng vậy thôi.
 
-Joshua was a prank-loving boy. He would often catch frogs and bugs in the garden and show them to Teacher and the other children, or worse, startle them by quietly placing them on their shoulders. He'd already done it to me many times. Despite his mischievous image, he always washed his clothes if they got dirty, and neatly put away toys when he was done playing with them. Surprisingly, he really had his head on straight in that respect.
+Joshua là một cậu bé mê chơi khăm. Cậu ấy hay bắt ếch với bọ trong vườn rồi giơ ra cho Thầy và các bạn xem, tệ hơn nữa là lặng lẽ đặt chúng lên vai người ta để hù. Mình cũng dính chiêu này không biết bao nhiêu lần rồi. Dù trông nghịch ngợm là thế, Joshua lúc nào cũng tự giặt quần áo khi bị bẩn, chơi xong thì cất đồ chơi gọn gàng. Không ngờ ở khoản này cậu ấy lại đâu ra đấy như vậy.
 
-He was also very talkative, and it was hard to tell if the things he was saying were true or not. Since Joshua and Rick were the only other boys, and I only saw Rick on occasion, I usually ended up hanging out with Joshua whenever I wasn't reading.
+Joshua còn rất hay nói, mà khó phân biệt được chuyện cậu ấy kể là thật hay bịa. Con trai ở đây chỉ có mỗi Joshua và Rick, mà Rick thì thỉnh thoảng mới gặp, nên những lúc không đọc sách mình thường chơi với Joshua.
 
-Stella was still a girl riddled with mystery. She would respond if you asked her something, but she'd never talk any more than that, and would absolutely never start a conversation herself.
+Stella thì vẫn là một cô bé đầy bí ẩn. Hỏi thì cô bé có trả lời, nhưng chỉ đến thế thôi, và tuyệt đối không bao giờ chủ động bắt chuyện trước.
 
-Although, every time we passed each other, it seemed like she was glaring at me. ...She probably didn't like me. On occasion, I heard her playing piano in her room. One time, I put my ear against her door to hear it more clearly, but she found me and gave me an extra-piercing glare.
+Có điều, mỗi lần đi ngang qua nhau, hình như cô bé đều lườm mình... Chắc là không ưa mình rồi. Thỉnh thoảng mình nghe thấy Stella chơi piano trong phòng. Có lần mình áp tai vào cửa phòng cô bé để nghe cho rõ, nhưng bị phát hiện, và nhận về một cái lườm sắc lẹm.
 
-Teacher was lacking in some areas, and it was... hard to call him a dependable adult. But he was very polite with us, and I could tell he was always looking out for us. According to Mr. Cliff, who occasionally came to visit, he was supposedly a highly intelligent person, but it was hard to see it that way when he was getting pranked by Joshua or being dragged around by Letty. Then again, the documents and papers in Teacher's room all seemed very complex. ...Was he doing research of some kind?
+Thầy thì hơi vụng về ở vài khoản, và nói thật là... khó mà coi Thầy là một người lớn đáng tin cậy. Nhưng Thầy luôn đối xử với tụi mình rất lịch sự, và mình biết Thầy lúc nào cũng để mắt đến tụi mình. Theo lời anh Cliff, người thỉnh thoảng ghé thăm nơi này, Thầy là một người rất thông minh. Nhưng nhìn cảnh Thầy bị Joshua chơi khăm hay bị Letty lôi đi khắp nơi thì thật khó mà tin nổi. Cơ mà giấy tờ, tài liệu trong phòng Thầy trông phức tạp lắm... Phải chăng Thầy đang nghiên cứu gì đó?
 
-Once he got deep into thought, it was hard to get him to notice you. Joshua told me "That's when you hit him in the flank!" and demonstrated, and the results were startling. So, weak point: flank.
+Một khi Thầy đã chìm vào suy nghĩ thì rất khó khiến Thầy để ý đến mình. Joshua mách mình: "Những lúc đó cứ chọc vào mạng sườn Thầy!" rồi làm mẫu luôn, và hiệu quả thật đáng kinh ngạc. Ghi nhớ: điểm yếu của Thầy là mạng sườn.
 
-"...Oops, I wrote that down..."
+"...Thôi chết, mình lỡ viết ra mất rồi..."
 
-I was only trying to gather my thoughts, but I'd been unknowingly writing it all in the notebook in front of me. The sky-blue notebook I hadn't shown to Teacher at all since the day I got it. I was told I could write anything, but I was writing nothing.
+Mình chỉ định sắp xếp lại suy nghĩ thôi, vậy mà lại vô thức viết hết vào cuốn sổ trước mặt. Cuốn sổ màu xanh da trời mà từ hôm nhận đến giờ mình chưa cho Thầy xem lần nào. Thầy bảo viết gì cũng được, vậy mà mình chẳng viết gì cả.
 
-There had been no progress as far as my memories. But the whole time, I felt like I was missing something. Like I was forgetting something important... But since I couldn't remember what it was, it was just fuzzy. And so another season passed.
+Còn trí nhớ thì vẫn chẳng có tiến triển gì. Nhưng lúc nào mình cũng thấy như đang thiếu mất thứ gì đó, như thể đã quên một điều rất quan trọng... Chỉ là không nhớ ra đó là gì, nên cảm giác ấy cứ mơ hồ mãi. Và thế là thêm một mùa nữa trôi qua.
 
-"...Time for bed."
+"...Đến giờ đi ngủ rồi."
 
-It was still a little while until official bed time, but I changed into my pajamas and sunk into bed. The fluffy pillow and blanket smelled nostalgic somehow. Was the blanket at my house like this?, I found myself thinking again. Every time I had such thoughts, my head ached a little, and I felt very empty.
+Vẫn còn một lúc nữa mới đến giờ ngủ, nhưng mình đã thay đồ ngủ rồi vùi mình vào giường. Gối chăn êm ái thoang thoảng một mùi gì đó thật hoài niệm. Không biết chăn ở nhà mình có giống thế này không nhỉ? Mình lại bất giác nghĩ ngợi rồi. Lần nào nghĩ đến những chuyện như vậy, đầu mình cũng hơi nhức, và một cảm giác trống rỗng lại tràn đến.
 
-Maybe I'll be empty like this forever...
+Có lẽ mình sẽ mãi trống rỗng như thế này...
 
-To run from the slowly-growing headache... I fell into a deep sleep.
+Để trốn khỏi cơn đau đầu đang âm ỉ lớn dần... mình chìm vào giấc ngủ sâu.
 
 {{< ngat-canh sym="🦋" >}}
 
-"...I know the thing you want to know."
-"...Really?"
-"Yes, but there's someone else who knows it too."
+"...Tôi biết điều cậu muốn biết."<br>
+"...Thật sao?"<br>
+"Thật. Nhưng còn một người khác cũng biết điều đó."
 
-An unknown voice. My vision is black, I can't see anything - but someone is there.
+Một giọng nói lạ. Trước mắt mình là một màu đen kịt, chẳng nhìn thấy gì cả — nhưng có ai đó đang ở đây.
 
-"Who would that be?"
-"Well, how many billion lifeforms exist in the world at this moment?"
-"...Who are you?"
-"That isn't what you want to know, is it?"
+"Là ai vậy?"<br>
+"Để xem nào, lúc này trên thế giới đang có bao nhiêu tỉ sinh mạng nhỉ?"<br>
+"...Cậu là ai?"<br>
+"Đó đâu phải điều cậu muốn biết, đúng không?"
 
-A girl's voice. We aren't carrying much of a conversation.
+Giọng một cô gái. Cuộc trò chuyện của tụi mình chẳng đâu vào đâu cả.
 
-"I'll give you a hint. ...You'll have to remember the answer yourself."
+"Tôi sẽ cho cậu một gợi ý. ...Còn đáp án thì cậu phải tự mình nhớ ra."
 
-Remember. Can I remember? ...Surely not. I can't remember anything.
+Nhớ ra. Mình có nhớ ra được không? ...Chắc chắn là không. Mình chẳng nhớ được gì cả.
 
-"...Oh. Your hands are shaking."
+"...Ôi. Tay cậu đang run kìa."
 
-I feel warmth in my hands which I realize were cold before. The girl holds them fully in her own.
+Mình cảm nhận được hơi ấm trên đôi bàn tay, lúc ấy mới nhận ra nãy giờ chúng lạnh ngắt. Cô gái nắm trọn hai tay mình trong tay cô.
 
-"There there, there there, there, there... It's okay."
+"Ngoan nào, ngoan nào, ngoan, ngoan... Không sao đâu."
 
-The girl scoops up that which is pouring out of me. My hands have stopped shaking.
+Cô gái hứng lấy những gì đang trào ra khỏi mình. Tay mình đã thôi run.
 
-"Don't worry. You'll remember all of it. You don't need to rush. They didn't vanish - they were only taken. ...There's still XXXX left in you."
+"Đừng lo. Rồi cậu sẽ nhớ ra tất cả thôi, không cần vội. Chúng không biến mất đâu — chỉ là bị lấy đi thôi. ...Trong cậu vẫn còn lại XXXX."
 
 "XXXX...?"
 
-I repeat the word the girl spoke. But the word becomes fuzzy, like it's covered by static. Yet I know it. I know this word... its existence?
+Mình lặp lại từ cô gái vừa nói. Nhưng từ ấy nhòe đi, như bị nhiễu sóng che lấp. Vậy mà mình biết nó. Mình biết từ này... biết sự tồn tại của nó?
 
-...Only taken?
+...Chỉ là bị lấy đi thôi sao?
 
-"It is..."
+"Đó là..."
 
 {{< ngat-canh sym="🦋" >}}
 
-Bang!
+Rầm!
 
-With a dull sound, pain echoed through my body. Looks like I fell out of bed. I sat up rubbing my head, which was still hazy.
+Một tiếng động trầm đục vang lên, cơn đau lan khắp người mình. Hình như mình ngã khỏi giường rồi. Mình ngồi dậy xoa đầu, đầu óc vẫn còn mụ mị.
 
 "XXXX..."
 
-Just like in the dream, the word wasn't clear. Just after saying it, I got a terrible headache and collapsed on the bed. I felt like I was in the rift between dream and reality.
+Cũng như trong giấc mơ, từ ấy vẫn không rõ ràng. Vừa thốt ra xong, đầu mình đau như búa bổ, và mình gục xuống giường. Cảm giác như đang lơ lửng ở ranh giới giữa mơ và thực.
 
-I'd been having similar dreams lately. Dreams of someone coming to talk to me and console me. Who was the girl appearing in them? She seemed to have held my hands. I touched them; the heat still remained on them. ...No, not just my hands. My whole body seemed warm and languid.
+Dạo này mình hay mơ những giấc mơ tương tự. Mơ thấy có ai đó đến trò chuyện và an ủi mình. Cô gái xuất hiện trong những giấc mơ ấy là ai? Hình như cô ấy đã nắm lấy tay mình. Mình chạm vào tay, hơi ấm vẫn còn vương lại... Không, không chỉ đôi tay. Cả người mình đều nóng ran và uể oải.
 
-"...Achoo!"
+"...Hắt xì!"
 
-My head was more dazed than before. I tried to lift my body again, but I couldn't get the energy, and collapsed back on the bed.
+Đầu mình càng lúc càng choáng váng. Mình cố nhấc người dậy lần nữa, nhưng chẳng còn chút sức nào, lại đổ gục xuống giường.
 
-While worrying about what to do, I fell back asleep.
+Đang băn khoăn không biết phải làm sao thì mình lại thiếp đi.
 
 {{< ngat-canh sym="🦋" >}}
 
-"...A slight fever. Maybe it's because of the changing season? I think it'll be fine if you just rest."
+"...Sốt nhẹ rồi. Chắc là do giao mùa? Thầy nghĩ em chỉ cần nghỉ ngơi là sẽ khỏe thôi."
 
-"...Sorry, Teacher."
+"...Em xin lỗi Thầy."
 
-I wasn't sure how much time had passed, but Teacher shook me awake. After that, he brought me hot milk, and I took a sip. It was a little too hot.
+Không biết đã qua bao lâu, Thầy lay mình dậy rồi mang cho mình một cốc sữa nóng. Mình nhấp một ngụm, hơi nóng quá.
 
-"It's not a particularly high fever, but since you can't move, I'll make some soup and bring it to you. Is there anything else you want?", Teacher asked with a smile.
+"Sốt không cao lắm đâu, nhưng em còn chưa đi lại được nên Thầy sẽ nấu súp mang lên cho em. Em có muốn gì nữa không?" Thầy mỉm cười hỏi.
 
-If I said I wanted to read a book, he'd probably be upset... But before I could even think about how to reply, there was already a word out of my mouth.
+Nếu bảo muốn đọc sách thì chắc Thầy sẽ không vui... Nhưng chưa kịp nghĩ xem nên trả lời thế nào, mình đã buột miệng thốt ra một từ.
 
 "...XXXX."
 
-It took me a few seconds to realize what I'd said. I looked to Teacher, and he looked at me like he'd been splashed with cold water.
+Phải mất mấy giây mình mới nhận ra mình vừa nói gì. Mình nhìn sang Thầy, Thầy đang nhìn mình như vừa bị tạt một gáo nước lạnh.
 
-Oh no. It just sounded like static to me, so I wasn't thinking about it, but maybe that word had some strange meaning. I quickly lowered my head with embarrassment.
+Ôi không. Với mình, từ đó chỉ nghe như tiếng nhiễu rè rè nên mình chẳng để tâm, nhưng biết đâu nó lại mang nghĩa gì kỳ quặc. Mình vội cúi gằm mặt xuống vì xấu hổ.
 
-"...Oh dear. That, I can't give you. And it's not something you can buy. ...Sorry. I'll keep it in mind."
+"...Ôi chà. Cái đó thì Thầy không cho em được rồi, mà cũng chẳng phải thứ mua được đâu. ...Xin lỗi em. Thầy sẽ ghi nhớ."
 
-When I looked up, I saw Teacher smiling with a bit of sadness on his face. I had the same thought when I first met him, but he really had very childlike expressions.
+Mình ngẩng lên, thấy Thầy đang cười, nhưng gương mặt phảng phất nét buồn. Lần đầu gặp Thầy mình cũng đã nghĩ vậy, nhưng Thầy đúng là có những biểu cảm rất trẻ con.
 
-"Well... Maybe I'll just buy some new books again, then. I was planning to go shopping in town this afternoon."
+"Ừm... Vậy chắc Thầy lại mua thêm ít sách mới cho em nhé. Chiều nay Thầy định lên thị trấn mua đồ."
 
-The words "new books" made my heart quiver a little. I had faint recollections of all the books in the library, and there were no others that suited my tastes. So having more books I could read made me very happy.
+Nghe đến hai chữ "sách mới" mà lòng mình khẽ rộn ràng. Sách trong thư viện cuốn nào mình cũng lờ mờ nhớ được nội dung, mà ngoài chúng ra cũng chẳng còn cuốn nào hợp gu. Nên có thêm sách để đọc làm mình vui lắm.
 
-"You like to read, don't you, Allen? I'm really impressed by how many difficult words you know already," Teacher praised with admiration.
+"Allen thích đọc sách lắm nhỉ? Thầy thật sự ấn tượng khi thấy em đã biết nhiều từ khó như vậy," Thầy khen, giọng đầy thán phục.
 
-"...You read difficult books too, Teacher. There's a lot of them in your room."
+"...Thầy cũng đọc sách khó mà. Trong phòng Thầy có nhiều lắm."
 
-"Ahaha... Well, Teacher's not so smart. So I have to read that many just to understand anything."
+"Ahaha... Thầy thì không thông minh lắm đâu. Phải đọc nhiều như thế mới hiểu nổi mọi thứ."
 
-He lowered his head slightly with a lonesome look. Then he put a hand to his mouth, and fell silent.
+Thầy khẽ cúi đầu, vẻ mặt cô độc. Rồi Thầy đưa tay lên che miệng, im lặng.
 
-"Teacher?"
+"Thầy ơi?"
 
-He didn't respond. I waved a hand in front of his eyes, but no change in the situation. ...Deep in thought again, I supposed. It'd be a while until he came back to us.
+Không có tiếng trả lời. Mình thử vẫy tay trước mắt Thầy, nhưng chẳng có gì thay đổi. ...Chắc lại chìm vào suy nghĩ rồi. Phải một lúc nữa Thầy mới quay về với tụi mình được.
 
-Teacher would suddenly go quiet like this not only when he was alone, but even in the middle of conversations with us. He was up late every night researching things, but I always wondered what. He was a very kind person... but I really didn't know anything more than that.
+Thầy hay đột nhiên im lặng như thế này, không chỉ khi ở một mình mà cả giữa lúc đang nói chuyện với tụi mình. Đêm nào Thầy cũng thức khuya nghiên cứu gì đó, mình vẫn luôn tò mò không biết là gì. Thầy là một người rất tốt... nhưng ngoài điều đó ra, mình thật sự chẳng biết gì thêm về Thầy.
 
-"Allen, if I told you there was a World unlike our world... Would you believe me?"
+"Allen này, nếu Thầy nói với em rằng có một Thế giới khác hẳn thế giới của chúng ta... Em có tin không?"
 
-Teacher was again looking into my eyes.
+Thầy lại nhìn thẳng vào mắt mình.
 
-"Huh? ...What do you mean?", I asked back, confused by the offbeat question. What did he mean by "World"?
+"Dạ? ...Ý Thầy là sao ạ?" Mình hỏi lại, bối rối trước câu hỏi bất chợt ấy. "Thế giới" là sao nhỉ?
 
-"...No, it's just a fairy tale. Sorry to bring it up," he hurriedly replied.
+"...Không, chỉ là một câu chuyện cổ tích thôi. Xin lỗi vì đã nhắc đến," Thầy vội đáp.
 
-"But... should you be invited to that door, I'd advise against opening it."
+"Nhưng... nếu có ngày em được mời đến trước cánh cửa ấy, Thầy khuyên em đừng mở nó ra."
 
-With that, he checked my temperature again, then left the room. As Teacher closed the door, I thought I heard him say, "Just a little more."
+Nói rồi, Thầy đo nhiệt độ cho mình thêm lần nữa rồi rời khỏi phòng. Lúc Thầy khép cửa lại, hình như mình nghe thấy Thầy nói: "Chỉ một chút nữa thôi."
 
 {{< ngat-canh sym="🦋" >}}
-When I next woke up, I was feeling much better. Maybe it was thanks to Teacher's frequent attending to me. I had the chicken soup and sandwich left on my desk and drank the cold remedy beside them. After that, I changed out of my pajamas.
 
-As I opened the door to leave the room, I heard a small yelp and an impact on my body. A girl was lying on her bottom in front of me, her eyes dazed.
+Lần tỉnh dậy tiếp theo, mình thấy khỏe hơn hẳn, chắc là nhờ Thầy chăm sóc chu đáo. Mình ăn bát súp gà với chiếc bánh sandwich để sẵn trên bàn, uống thuốc cảm đặt bên cạnh, rồi thay bộ đồ ngủ ra.
 
-"Are you okay, Chelsy?"
+Vừa mở cửa định ra ngoài, mình nghe thấy một tiếng kêu khe khẽ, rồi có gì đó va vào người. Một cô bé ngã ngồi bệt trước mặt mình, mắt còn ngơ ngác.
 
-I held out my hand, and her face burned up at once. But she timidly grabbed it and slowly got up.
+"Cậu không sao chứ, Chelsy?"
 
-"Th, thank you. Um, I-I'm sorry...", Chelsy said with her face lowered in embarrassment, her voice half-vanishing. Even though we'd known each other a while now, she still kept her distance when we talked.
+Mình chìa tay ra, mặt Chelsy lập tức đỏ bừng. Nhưng rồi cậu ấy rụt rè nắm lấy, từ từ đứng dậy.
 
-Wondering if maybe she was scared of my face, I tried smiling at Chelsy. That made her eyes bulge, and she twisted her neck in confusion. ...Maybe I'd forgotten how to put on expressions properly.
+"C-cảm ơn cậu. Ừm, t-tớ xin lỗi...", Chelsy cúi gằm mặt vì xấu hổ, giọng nhỏ như sắp tan biến. Dù đã quen nhau một thời gian rồi, mỗi lần nói chuyện cậu ấy vẫn giữ khoảng cách với mình.
 
-"U-Umm. Teacher said you seemed to be doing much better, and it was okay to talk with you. And, uh, I was kind of anxious about..."
+Nghĩ bụng có khi Chelsy sợ cái mặt mình, mình thử mỉm cười với cậu ấy. Thế là Chelsy trợn tròn mắt, rồi nghiêng đầu khó hiểu. ...Chắc mình quên mất cách làm biểu cảm cho ra hồn rồi.
 
-Her voice got quieter and increasingly more mumbly. I couldn't really make out what she said toward the end, but it seemed like she'd been worried about me, at any rate.
+"Ư-ừm, Thầy bảo cậu khỏe hơn nhiều rồi, nói chuyện với cậu cũng không sao. Với lại, ừ, tớ hơi lo về..."
 
-"...Thanks. I'm fine now," I said to Chelsy, looking her right in the eye. She hurried to do the same and nodded a tiny bit. Considering that she wouldn't make eye contact at all at first, maybe we were gradually getting more friendly. ...Still keeping a pretty big distance, though.
+Giọng Chelsy càng lúc càng nhỏ, lí nhí đến mức mình không nghe rõ đoạn cuối, nhưng có vẻ cậu ấy đã lo cho mình.
 
-Just then, I heard a creaking of some kind from the ceiling. Chelsy shrieked a little, and I fell on my behind with surprise at her scream. She promptly reached out to grab my hand, but tripped and fell in the process.
+"...Cảm ơn cậu. Giờ tớ khỏe rồi," mình nói, nhìn thẳng vào mắt Chelsy. Cậu ấy vội nhìn lại mình, khẽ gật đầu. Hồi đầu Chelsy còn chẳng dám nhìn vào mắt mình, nên có lẽ tụi mình đang thân thiết hơn dần rồi. ...Dù khoảng cách giữa hai đứa vẫn còn xa lắm.
 
-"...What are you doing?"
+Đúng lúc đó, mình nghe thấy tiếng cót két từ trên trần nhà. Chelsy khẽ hét lên, mình giật mình vì tiếng hét mà ngã ngồi ra sau. Chelsy vội đưa tay ra định kéo mình, nhưng lại vấp chân ngã theo.
 
-The door of the room next to mine cracked open, and Rick stared at us through the gap dubiously. I explained the situation, and he wordlessly grabbed our hands and lifted Chelsy and I up.
+"...Hai cậu đang làm gì thế?"
 
-"Letty told me I should stay away from Allen because he has a cold, but you look okay now to me," Rick said, and stroked my head.
+Cửa phòng bên cạnh hé mở, Rick nhìn hai đứa qua khe cửa với vẻ ngờ vực. Mình kể lại đầu đuôi, Rick lặng lẽ nắm tay kéo cả mình và Chelsy đứng dậy.
 
-"Why were you startled by a sound, anyway? The floor here squeaks all the time... It should be a common occurrence."
+"Letty bảo tớ nên tránh xa Allen vì cậu ấy bị cảm, nhưng tớ thấy giờ cậu ổn rồi đấy," Rick nói rồi xoa đầu mình.
 
-Rick put his weight on one leg, and the wood floor made a strained sound like it might crumble at any moment. Getting uneasy, I quickly told him "that's enough" and grabbed his arm.
+"Mà sao hai cậu lại giật mình vì có tiếng động chứ? Sàn nhà ở đây lúc nào chẳng kẽo kẹt... Chuyện thường ấy mà."
 
-"Um... Joshua said something. He said there's been voices, coming from the second floor lately. So... maybe... I thought it might be... a ghost, or..." Chelsy's face rapidly paled.
+Rick dồn trọng lượng lên một chân, sàn gỗ liền rên lên kẽo kẹt như sắp vỡ vụn đến nơi. Thấy bất an, mình vội bảo "Đủ rồi đấy" rồi nắm lấy tay cậu ấy.
 
-"...Joshua tells lies like that all the time. You're too honest, Chelsy. It's not like you've seen it for yourself, so..."
+"Ừm... Joshua có kể, kiểu như dạo này hay có giọng nói phát ra từ tầng hai. Nên... chắc là... tớ tưởng là... ma, hay là..." Mặt Chelsy tái mét đi trông thấy.
 
-Rick sighed and put a hand on Chelsy's shoulder. Another one of Joshua's tall tales, I thought - but this one had my interest.
+"...Joshua lúc nào chả bịa mấy chuyện kiểu đấy. Cậu cả tin quá đấy, Chelsy. Có phải cậu tận mắt thấy đâu mà..."
 
-"...What kind of voices, I wonder? Girls' voices? Old guys' voices?"
+Rick thở dài, đặt tay lên vai Chelsy. Lại là một chuyện bịa của Joshua đây mà, mình nghĩ — nhưng chuyện lần này lại khiến mình tò mò.
 
-"What, you too, Allen?" Rick seemed appalled. "...If you're honestly curious, ask Joshua. He should be in his room."
+"...Không biết là giọng thế nào nhỉ? Giọng con gái? Hay giọng ông già?"
 
-Chelsy yawned, and the two of them said good night to me and returned to their rooms. I went to Joshua's to ask him about the voices on the second floor.
+"Gì cơ, cả cậu cũng thế à, Allen?" Rick có vẻ hết nói nổi. "...Nếu tò mò thật thì đi mà hỏi Joshua. Chắc cậu ta đang ở trong phòng đấy."
 
-"Huh, didn't you have a cold? You better already?"
+Chelsy ngáp một cái, rồi hai người chúc mình ngủ ngon và về phòng. Mình sang phòng Joshua để hỏi chuyện giọng nói trên tầng hai.
 
-As I was about to knock on the door, Joshua came out just on cue. Perfect. I decided to ask him about the voices Chelsy mentioned.
+"Ơ, cậu bị cảm cơ mà? Khỏi rồi à?"
 
-"Oh, that! Yeah, voices are coming from the storeroom lately. All like, "heeelp." Which definitely means ghosts!"
+Mình vừa định gõ cửa thì Joshua đã ló mặt ra, đúng lúc ghê. Mình hỏi luôn chuyện giọng nói mà Chelsy vừa kể.
 
-For added flair, he raised both hands threateningly like he was about to attack me. But I guess my reaction was pretty meager, as he looked a little embarrassed and slowly put his hands down.
+"À, chuyện đó! Ừ, dạo này có giọng nói phát ra từ phòng kho đấy. Kiểu như 'Cứuuu vớiiii' ấy. Chắc chắn là ma rồi!"
 
-"Have you gone to check what it is, Joshua?"
+Như để thêm phần kịch tính, Joshua giơ hai tay lên đầy đe dọa như sắp vồ lấy mình. Nhưng chắc phản ứng của mình nhạt nhẽo quá, nên cậu ấy có vẻ hơi ngượng, rồi từ từ hạ tay xuống.
 
-"Huh? Ugh, no way. I don't wanna do that myself. Hey, not 'cause I'm scared! Just because I think that stuff's stupid!"
+"Thế cậu đã lên xem thử chưa, Joshua?"
 
-So Joshua said, but his legs were shaking a little. Maybe this time he was telling the truth. I just said "Got it," and headed toward the stairs to the second floor.
+"Hả? Ơ, còn lâu nhé. Tớ không tự đi xem đâu. Này, không phải vì sợ đâu đấy! Chỉ là tớ thấy mấy trò đó ngớ ngẩn thôi!"
 
-"Hey, Allen, it's bed time! Make sure Teacher doesn't catch you! And if he does, don't tell him I said anything!", Joshua shouted from behind. But I only heard him faintly, more interested in the voices upstairs.
+Nói thì cứng thế, nhưng hai chân cậu chàng lại hơi run run. Có khi lần này Joshua nói thật. Mình chỉ đáp "Tớ hiểu rồi" rồi đi về phía cầu thang lên tầng hai.
 
-As I left the hallway to go up the stairs, I heard someone coming down them. Not good - was it Teacher? I stepped back and took a peek. It wasn't Teacher coming downstairs, but Stella. There were a few books in her hands.
+"Này Allen, đến giờ ngủ rồi đấy! Đừng để Thầy bắt được nhé! Mà lỡ có bị tóm thì đừng khai là tớ kể đấy!", Joshua hét với theo. Nhưng mình chỉ nghe loáng thoáng, vì còn mải để tâm đến giọng nói trên lầu.
+
+Vừa rời hành lang định lên cầu thang thì mình nghe thấy có tiếng bước chân đi xuống. Chết rồi — Thầy à? Mình lùi lại, hé mắt nhìn. Không phải Thầy, mà là Stella, tay ôm mấy cuốn sách.
 
 "..."
 
-...The silence was heavy. Stella stared intensely at me. I found myself backing away. And she stepped closer to me as if refusing to let the distance between us widen.
+...Im lặng nặng nề. Stella chăm chú nhìn mình, mình bất giác lùi lại. Cô bé liền bước tới, như thể không muốn để khoảng cách giữa hai đứa nới rộng ra.
 
-"...Yes, you're very strange. Because... you can speak."
+"...Đúng rồi, cậu lạ thật đấy. Vì... cậu vẫn nói được."
 
-A soft, transient voice grazed my ears. I felt like I hadn't heard her voice in forever.
+Một giọng nói nhẹ tênh, mong manh lướt qua tai mình. Cảm giác như đã lâu lắm rồi mình mới được nghe giọng cô bé.
 
-"Probably because you don't really feel like you're alive. It's the case with everyone here, but you most of all."
+"Chắc là vì cậu không thật sự cảm thấy mình đang sống. Ai ở đây cũng vậy cả, nhưng cậu là rõ nhất."
 
-...Was that a compliment? I puzzled over how to respond to that.
+...Đó là lời khen à? Mình bối rối không biết nên đáp lại thế nào.
 
-"No... Actually, you're slightly different." Ignoring me, she nodded with some kind of understanding. "...If you're looking for Teacher, he's not on the second floor. But you should finish any business you have quickly."
+"Không... Thật ra cậu hơi khác một chút." Chẳng đợi mình trả lời, Stella gật gù như vừa hiểu ra điều gì. "...Nếu cậu đang tìm Thầy thì Thầy không ở tầng hai đâu. Nhưng định làm gì thì làm nhanh lên."
 
-Hearing her talk like she could see right through me made my heart pound a little. ...She might have been scarier than any ghost. Once she'd passed by me and I was sure she was out of sight, I went upstairs, careful not to make a sound.
+Nghe Stella nói cứ như nhìn thấu tâm can mình, tim mình đập thình thịch... Có khi Stella còn đáng sợ hơn cả ma. Đợi cô bé đi qua và chắc chắn đã khuất dạng, mình mới rón rén lên tầng, cố không gây ra tiếng động nào.
 
-It was already very dark on the second floor, and very silent. I felt around to find the storeroom door and nervously turned the knob. It wasn't locked.
+Tầng hai lúc này đã tối om, im phăng phắc. Mình mò mẫm tìm cửa phòng kho rồi hồi hộp xoay nắm cửa. Cửa không khóa.
 
-The door opened with a creak. The room was dark and a little dusty.
+Cánh cửa mở ra kèm một tiếng kẽo kẹt. Trong phòng tối và hơi bụi.
 
-I took a few steps forward and strained my ears. Other than what seemed to be a draft, I didn't hear anything. Maybe it was just a tall tale after all. A little let down, I impulsively sighed. Just as I turned to go back to my room...
+Mình bước lên vài bước rồi lắng tai nghe. Ngoài thứ có vẻ là tiếng gió lùa ra thì chẳng nghe thấy gì cả. Rốt cuộc chắc cũng chỉ là chuyện bịa thôi. Hơi thất vọng, mình bất giác thở dài. Đúng lúc mình quay người định về phòng...
 
-"...e..."
+"...i..."
 
-"Huh?" ...Did I hear something?
+"Hả?" ...Mình vừa nghe thấy gì à?
 
-"...p me..."
+"...u tôi..."
 
-Something was there. But I could only hear the voice, and couldn't be sure what it was. I fumbled around to get closer to the voice. My heartbeat got steadily louder.
+Có gì đó ở đây. Nhưng mình chỉ nghe được tiếng nói, chẳng chắc đó là thứ gì. Mình dò dẫm tiến lại gần phía giọng nói. Tim mình đập mỗi lúc một to hơn.
 
-"...Help me..."
+"...Cứu tôi..."
 
-I finally got right up to the source of the voice. I couldn't see it clearly in the dim lighting, but I seemed to be right next to a model of a butterfly.
+Cuối cùng mình cũng đến được ngay chỗ phát ra giọng nói. Trong bóng tối lờ mờ không nhìn rõ được, nhưng hình như mình đang đứng ngay cạnh một mô hình con bướm.
 
-Before I could even think, I tried to touch the butterfly. It was placed high up, so I stretched to reach it. Still too far away, I got on my tiptoes, and my legs trembled. Just as I finally grabbed it, it slipped out of my hand.
+Chưa kịp nghĩ gì, mình đã với tay định chạm vào con bướm. Nó được đặt trên cao nên mình phải rướn người. Vẫn chưa tới, mình kiễng chân lên, hai chân run run. Đúng lúc vừa nắm được thì nó tuột khỏi tay mình.
 
-Crash!
+Xoảng!
 
-The butterfly model fell to my feet and shattered with a loud sound. Startled, I lept backward. ...Bad. Really bad. I was turning pale, I knew. My heartbeat got louder still. And on top of that, I thought I heard laughter behind me.
--->
+Mô hình con bướm rơi xuống ngay dưới chân mình, vỡ tan tành. Mình giật mình nhảy lùi lại. ...Chết rồi. Chết thật rồi. Mình biết mặt mình đang tái dần đi. Tim càng đập dồn dập hơn. Mà không chỉ vậy, hình như mình còn nghe thấy tiếng cười vang lên sau lưng.
