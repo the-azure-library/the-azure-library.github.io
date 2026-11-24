@@ -402,7 +402,7 @@ Nghĩ bụng có khi Chelsy sợ cái mặt mình, mình thử mỉm cười v�
 
 Giọng Chelsy càng lúc càng nhỏ, lí nhí đến mức mình không nghe rõ đoạn cuối, nhưng có vẻ cậu ấy đã lo cho mình.
 
-"...Cảm ơn cậu. Giờ tớ khỏe rồi," mình nói, nhìn thẳng vào mắt Chelsy. Cậu ấy vội nhìn lại mình, khẽ gật đầu. Hồi đầu Chelsy còn chẳng dám nhìn vào mắt mình, nên có lẽ tụi mình đang thân thiết hơn dần rồi. ...Dù khoảng cách giữa hai đứa vẫn còn xa lắm.
+"...Cảm ơn cậu. Giờ tớ khỏe rồi," mình nói, nhìn thẳng vào mắt Chelsy. Cậu ấy vội nhìn lại mình, khẽ gật đầu. Ngẫm lại thì mới đầu cậu ấy còn không thể nhìn vào mắt mình, có thể cho là chúng mình dần trở nên thân thiết hơn ha... Dù giữa hai đứa vẫn có một khoảng cách lớn lắm.
 
 Đúng lúc đó, mình nghe thấy tiếng cót két từ trên trần nhà. Chelsy khẽ hét lên, mình giật mình vì tiếng hét mà ngã ngồi ra sau. Chelsy vội đưa tay ra định kéo mình, nhưng lại vấp chân ngã theo.
 
