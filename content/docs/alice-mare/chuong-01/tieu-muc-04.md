@@ -11,6 +11,7 @@ weight: 40
      đầu tiên. -->
 
 <!-- Chưa dịch — Tiểu mục 4: góc nhìn Allen.
+
 All the lights were out on the first floor, giving it an ominous air. I followed the walls back to my room.
 
 "There there..."

@@ -5,74 +5,68 @@ weight: 30
 
 {{< dau-phan >}}
 
-<!-- Tiểu mục 3 — góc nhìn Thầy giáo: nghe tiếng vỡ trên gác, phát hiện
-     Allen làm vỡ mô hình con bướm trong phòng chứa đồ; sau đó một cuộc
-     trao đổi bí ẩn với "giọng nói" (ẩn ý tới nhân vật mèo). -->
+...Đầu tôi đau kinh khủng. Chắc là bị lây cảm từ Allen rồi. Không, tôi biết hơn ai hết đó không phải lý do. Tôi lại sắp chạm đến giới hạn rồi. Cơn chóng mặt quen thuộc lại kéo đến.
 
-<!-- Chưa dịch — Tiểu mục 3: góc nhìn Thầy giáo.
-...I had a terrible headache. Maybe I'd caught Allen's cold. No, I knew better than anyone that wasn't the reason. I was just approaching my limits again. I felt a familiar dizziness.
+"...Phải rồi, phải kiểm tra lại xem tất cả các cửa đã khóa chưa. Thư viện thì chắc chắn là chưa khóa rồi, vì lúc nãy Stella vừa ở trên đấy..."
 
-"...Yes, I need to check that all the doors are locked again. I know the library's isn't since Stella was there..."
+Tôi từ từ gượng dậy. Tình trạng vẫn chưa tệ đến mức không đi nổi.
 
-I slowly lifted myself. Things hadn't worsened enough yet that I couldn't walk.
+Xoảng!
 
-Crash!
+Có tiếng gì đó vỡ ở trên tầng. Đã quá giờ ngủ rồi mà vẫn có người trên đó sao? Có vẻ là phát ra từ phòng kho, nhưng phòng kho gần như lúc nào cũng khóa mà...
 
-I heard something breaking upstairs. It was past bed time, but was someone still upstairs? It sounded like it came from the storeroom, but that was almost always locked...
+...Mà bỏ qua vụ đấy đã, phải đi xem là ai mới được. Tôi vội lên tầng rồi mở cửa phòng kho.
 
-...No, never mind that. I just need to see who it is. I hurried up and opened the storeroom door.
+"Ai đó?!"
 
-"Who's there?!"
+Tôi bật đèn lên thì thấy Allen đang đứng đó, mặt mày tái nhợt. Dưới chân cậu bé là những mảnh kính vỡ vương vãi cùng tiêu bản bướm.
 
-I turned on the lights to reveal a pale-faced Allen. Glass shards and a butterfly model were scattered at his feet.
+Allen run rẩy nhìn về phía tôi. Thấy vậy, tôi thận trọng tiến lại gần để cậu bé không hoảng sợ thêm.
 
-Allen's body shook as he stared my way. Seeing the situation, I approached cautiously to avoid making him any more scared.
+Tôi quỳ xuống cho ngang tầm mắt cậu bé rồi nhẹ nhàng nói: "...Thầy nghe thấy tiếng vỡ rất to. Em lên đây làm gì vậy? Thầy đã dặn em không được ra khỏi phòng khi đến giờ đi ngủ rồi mà?"
 
-I kneeled down to his level and spoke softly. "...I heard a loud crash. What were you doing up here? I told you not to leave your room during bed time, didn't I?"
+Cậu bé xấu hổ, lí nhí trả lời.
 
-Looking very ashamed, he mumbled, very quietly,
+"...Con bướm... bảo em là 'cứu tôi với'."
 
-"...The butterfly... said "help me.""
+...Con bướm nói sao?
 
-...The butterfly spoke?
+"...Thầy hiểu rồi. Con bướm đó tuy đẹp đến mức trông như còn sống, nhưng thực ra đã chết từ lâu rồi. Một thứ không có linh hồn thì không thể nói được, đúng không?"
 
-"...I see. Well, while that butterfly may be pretty enough to look alive, it's long since died. Something without a soul can't speak, can it?"
+Lời vừa nói ra khiến ngực tôi thắt lại. Tôi vẫn chưa thoát khỏi nỗi hối hận về chuyện ngày hôm đó.
 
-My chest tightened from what I said. I was still tied down by the regret of that day.
+"Con bướm vỡ tan tành rồi ạ...", Allen nghẹn ngào, ánh mắt cụp xuống, tránh sang hướng khác.
 
-"The model is all busted...", Allen said, about to sob, and turned his eyes away and down.
+Tôi nắm lấy tay cậu bé. May quá, tay em ấy không bị xây xát gì, nhưng vẫn còn run lắm. ...Chắc tôi hơi nặng lời rồi.
 
-I took Allen's hand, and confirming that he didn't have a scratch on him, felt relieved. His hand was still shaking. ...Maybe I spoke too harshly.
+"...Có vẻ em không bị thương, vậy là tốt rồi. Mấy mảnh kính vỡ này nguy hiểm lắm, để Thầy dọn cho, còn em về phòng ngủ đi."
 
-"...You don't seem hurt. That's good. These glass shards are dangerous. I'll clean them up, so go to your room and sleep."
+"Em xin lỗi...", cậu bé khẽ lặp đi lặp lại. Không ổn rồi. Thế này nguy hiểm quá.
 
-"I'm sorry...", he quietly repeated again and again. Oh, this wasn't good. This was dangerous.
+"Em thực sự không cần xin lỗi đâu, chỉ cần đừng tái phạm là được. Ngoan nào, ngoan nào, ngoan, ngoan... Không sao đâu."
 
-"No need to apologize, really. Just don't do it again. There there, there there, there, there... It's okay."
+Tôi nhẹ nhàng nắm lấy tay cậu bé rồi lẩm nhẩm câu thần chú quen thuộc. Allen mở to mắt nhìn tôi. Tôi có nói gì lạ sao?
 
-I gently held Allen's hands and recited my charm. He looked back at me with wide eyes. Did I say something unusual?
+...Dù sao thì, tôi đứng dậy định đưa cậu bé ra khỏi phòng, thì đột nhiên một tiếng the thé chói tai vang lên ngay bên tai tôi.
 
-...At any rate, I stood up to get him out of the room, when suddenly there was a shrill sound in my ears.
-
-"Is it reeeally okay?"
+"Thậật sự là không sao à?"
 
 "...!"
 
-I heard a voice from somewhere. An unpleasant voice I knew well.
+Một giọng nói vang lên từ đâu đó. Một giọng nói khó chịu mà tôi đã quá đỗi quen thuộc.
 
-"Are you okay, Teacher?"
+"Thầy không sao chứ ạ?"
 
-I looked up in surprise. Allen was looking at me worriedly. "I'm fine," I insisted, and led him out.
+Tôi giật mình ngẩng đầu lên. Allen đang lo lắng nhìn tôi. "Thầy không sao," tôi khẳng định rồi đưa cậu bé ra khỏi phòng kho.
 
-Once I'd seen him go down the stairs, I responded to the voice without turning around. "...You were watching?"
+Đợi cậu bé xuống cầu thang rồi, tôi mới đáp lại giọng nói kia mà không quay đầu lại: "...Ngươi thấy hết rồi à?"
 
-"Boy, you look like you swallowed somethin' sour! Was hopin' for a bit of a better reception after all this time."
+"Chà, trông mặt ngươi cứ như vừa nuốt phải thứ gì chua ấy! Bao lâu mới gặp lại, ta cứ tưởng sẽ được đón tiếp tử tế hơn chứ."
 
-I felt something coiling on my back. I was more and more discomforted.
+Tôi cảm thấy có thứ gì đó đang quấn quanh lưng mình. Cảm giác bức bối mỗi lúc một tăng.
 
-"You've known for ages, haven'tcha? Now, what's it gonna be?"
+"Ngươi thừa biết từ lâu rồi còn gì? Thế giờ tính sao đây?"
 
-A distinctive laugh made my skin crawl. I turned around and spoke to the source of the voice.
+Một tràng cười không lẫn đi đâu được khiến tôi nổi da gà. Tôi quay lại, hướng về phía phát ra giọng nói.
 
-"...I have a favor to ask you."
--->
+"...Ta có việc muốn nhờ ngươi."
